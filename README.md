@@ -1,12 +1,12 @@
 ### Hi, I'm Denis! 👋
 - - -
 
-```
+```javascript
 const Denis = {
   "age": 20,
   "languages": ["czech", "english"],
-  "programming languages": ["Python", "C#", "C++", "HTML", "CSS", "JavaScript", "SQL"],
-  "studying": true,
+  "programming languages": ["Python", "C#", "C++", "HTML", "CSS", "Javascript", "SQL"],
+  "studying": true
 }
 ```
 <!--
