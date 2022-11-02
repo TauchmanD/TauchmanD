@@ -1,5 +1,4 @@
 ### Hi, I'm Denis! 👋
-- - -
 
 ```javascript
 const Denis = {
