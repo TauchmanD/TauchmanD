@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi, I'm Denis! 👋
+- - -
 
+```
+const Denis = {
+  "age": 20,
+  "languages": ["czech", "english"],
+  "programming languages": ["Python", "C#", "C++", "HTML", "CSS", "JavaScript", "SQL"],
+  "studying": true,
+}
+```
 <!--
 **TauchmanD/TauchmanD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
