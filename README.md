@@ -3,14 +3,14 @@
 </h2>
 <p align="center">
   <a href="">
-    
+    <img src="./icons/test.svg" height="42px" fill="fffff"/>
   </a>
 </p>
 <h2 align="center">Stats</h2>
 <br>
 <p align=center>
   <div align=center>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=tauchmand&theme=react&border=61dafb&hide_border=true"/>
+  <img align="left" width="390" height="165" src="https://github-readme-stats.vercel.app/api?username=tauchmand&theme=react&border=61dafb&hide_border=true"/>
   <img align="right" width=390 src="https://streak-stats.demolab.com?user=tauchmand&theme=react&hide_border=true&border_radius=6.8" />
   </div>
   <!---<p>
