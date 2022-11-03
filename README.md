@@ -27,6 +27,8 @@
   <div align=center>
   <img align="left" width="390" height="165" src="https://github-readme-stats.vercel.app/api?username=tauchmand&theme=react&border=61dafb&hide_border=true"/>
   <img align="right" width=390 src="https://streak-stats.demolab.com?user=tauchmand&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <br><br><br><br><br><br><br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=tauchmand&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   </div>
   <!---<p>
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
