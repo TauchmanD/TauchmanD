@@ -23,8 +23,12 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tauchmand&color=20bcf8&style=for-the-badge"/>
 </div>
-<p>
-Some info about me here!
+<p align="center">
+  I'm 20 years old student from Czechia
+  <br>
+  Average Python enjoyer
+  <br>
+  Interested in ML/AI
 </p>
 <h2 align="center">Languages and Tools</h2>
 <p>
