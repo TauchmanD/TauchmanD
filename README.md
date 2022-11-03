@@ -1,6 +1,6 @@
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=tauchmand&theme=react&border=61dafb&hide_border=true"/>
-  <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=tauchmand&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <img align="right" width=390 src="https://streak-stats.demolab.com?user=tauchmand&theme=react&hide_border=true&border_radius=6.8" />
   <p>
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSharp-099932?style=flat-square&logo=CSharp&logoColor=white"/>
