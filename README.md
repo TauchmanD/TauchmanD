@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/badge/-numpy-3776AB?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/-asp-3776AB?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/-git-3776AB?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-aws-3776AB?style=for-the-badge&logo=amazon%20aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/-bash-3776AB?style=for-the-badge&logo=gnu%20bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/-linux-3776AB?style=for-the-badge&logo=linux&logoColor=white"/>
   </div>
