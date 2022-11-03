@@ -23,6 +23,12 @@
 <p>
 Some info about me here!
 </p>
+<h2 align="center">Languages and Tools</h2>
+<p>
+    - Python, C#, HTML, CSS, JavaScript, SQL
+    <br>
+    - FastAPI, Flask, Pandas, NumPy, ASP, UWP, Git, Bash, Arch Linux,
+</p>
 <h2 align="center">Stats</h2>
 <br>
 <p align=center>
