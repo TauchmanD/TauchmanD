@@ -13,12 +13,13 @@
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   </p>
 </p>
-```javascript
-const Denis = {
-  "age": 20,
-  "languages": ["czech", "english"],
-  "programming languages": ["Python", "C#", "C++", "HTML", "CSS", "Javascript", "SQL"],
-  "studying": true
-}
-```
+<p>
+  📣 Contact me:<br/>
+  <a href="mailto:denis.tauchman1@gmail.com?subject=[GitHub]%20🔥"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://instagram.com/umrusamskockou"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://twitch.tv/zaky_py"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/denis-tauchman-92a0071b3/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/FistingLo"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+<p>
 
