@@ -1,6 +1,6 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Denis!" alt="Typing SVG" /></a>
-</h2>
+</h1>
 <p align="center">
   <a href="mailto:denis.tauchman1@gmail.com?subject=[Github]">
     <img width="50px" height="24px" src="./icons/gmail.svg"/>
