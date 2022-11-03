@@ -2,7 +2,23 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Denis!" alt="Typing SVG" /></a>
 </h2>
 <p align="center">
-  <a href="">
+  <a href="mailto:denis.tauchman1@gmail.com?subject=[Github]">
+    <img width="50px" height="24px" src="./icons/gmail.svg"/>
+  </a>
+   <a href="https://www.youtube.com/zaky36cz1" target="_blank">
+    <img width="50px" height="24px" src="./icons/youtube.svg"/>
+  </a>
+   <a href="https://www.twitch.tv/zaky_py" target="_blank">
+    <img width="50px" height="24px" src="./icons/twitch.svg"/>
+  </a>
+   <a href="https://www.linkedin.com/in/denis-tauchman-92a0071b3" target="_blank">
+    <img width="50px" height="24px" src="./icons/linkedin.svg"/>
+  </a>
+   <a href="https://twitter.com/FistingLo" target="_blank">
+    <img width="50px" height="24px" src="./icons/twitter.svg"/>
+  </a>
+   <a href="https://www.instagram.com/umrusamskockou" target="_blank">
+    <img width="50px" height="24px" src="./icons/instagram.svg"/>
   </a>
 </p>
 <h2 align="center">Stats</h2>
