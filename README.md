@@ -20,14 +20,32 @@
     <img width="50px" height="24px" src="./icons/instagram.svg"/>
   </a>
 </h1>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tauchmand&color=20bcf8&style=for-the-badge"/>
+</div>
 <p>
 Some info about me here!
 </p>
 <h2 align="center">Languages and Tools</h2>
 <p>
-    - Python, C#, HTML, CSS, JavaScript, SQL
-    <br>
-    - FastAPI, Flask, Pandas, NumPy, ASP, UWP, Git, Bash, Arch Linux,
+  <div align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C%20Sharp-3776AB?style=for-the-badge&logo=C%20Sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HTML5-3776AB?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-3776AB?style=for-the-badge&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-3776AB?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-sql-3776AB?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </div>
+  <div align="center">
+  <img src="https://img.shields.io/badge/-fastapi-3776AB?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-flask-3776AB?style=for-the-badge&logo=fLASK&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-pandas-3776AB?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-numpy-3776AB?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-asp-3776AB?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-git-3776AB?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-bash-3776AB?style=for-the-badge&logo=gnu%20bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-linux-3776AB?style=for-the-badge&logo=linux&logoColor=white"/>
+  </div>
 </p>
 <h2 align="center">Stats</h2>
 <br>
