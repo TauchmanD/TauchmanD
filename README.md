@@ -61,7 +61,7 @@
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=tauchmand&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app?username=tauchmand&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   </div>
   <!---<p>
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
