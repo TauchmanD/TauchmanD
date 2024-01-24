@@ -61,7 +61,7 @@
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauchmand&hide_progress=true&layout=donut-vertical&theme=react" width="20%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauchmand&hide_progress=true&layout=donut-vertical&theme=react" width="40%"/>
   </div>
   <!---<p>
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
