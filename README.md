@@ -44,14 +44,11 @@
   <img src="https://img.shields.io/badge/-pytorch-3776AB?style=for-the-badge&logo=pytorch&logoColor=white"/>
     <img src="https://img.shields.io/badge/-ollama-3776AB?style=for-the-badge&logo=ollama&logoColor=white"/>
     <img src="https://img.shields.io/badge/-langgraph-3776AB?style=for-the-badge&logo=langgraph&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-langgraph-3776AB?style=for-the-badge&logo=langgraph&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-fastapi-3776AB?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-flask-3776AB?style=for-the-badge&logo=fLASK&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-pandas-3776AB?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-numpy-3776AB?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-git-3776AB?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-langchain-3776AB?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/-aws-3776AB?style=for-the-badge&logo=amazon%20aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-bash-3776AB?style=for-the-badge&logo=gnu%20bash&logoColor=white"/>
+     <img src="https://img.shields.io/badge/-terraform-3776AB?style=for-the-badge&logo=terraform&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-ansible-3776AB?style=for-the-badge&logo=ansible&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-kubernetes-3776AB?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/-linux-3776AB?style=for-the-badge&logo=archlinux&logoColor=white"/>
   </div>
 </p>
