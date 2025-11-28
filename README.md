@@ -35,9 +35,7 @@
   <div align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C%20Sharp-3776AB?style=for-the-badge&logo=C%20Sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-HTML5-3776AB?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-3776AB?style=for-the-badge&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-3776AB?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-typescript-3776AB?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-sql-3776AB?style=for-the-badge&logo=mysql&logoColor=white"/>
   </div>
   <div align="center">
@@ -45,10 +43,10 @@
     <img src="https://img.shields.io/badge/-ollama-3776AB?style=for-the-badge&logo=ollama&logoColor=white"/>
     <img src="https://img.shields.io/badge/-langgraph-3776AB?style=for-the-badge&logo=langgraph&logoColor=white"/>
     <img src="https://img.shields.io/badge/-langchain-3776AB?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-aws-3776AB?style=for-the-badge&logo=amazon%20aws&logoColor=white"/>
      <img src="https://img.shields.io/badge/-terraform-3776AB?style=for-the-badge&logo=terraform&logoColor=white"/>
     <img src="https://img.shields.io/badge/-ansible-3776AB?style=for-the-badge&logo=ansible&logoColor=white"/>
     <img src="https://img.shields.io/badge/-kubernetes-3776AB?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-aws-3776AB?style=for-the-badge&logo=googlecloudstorage&logoColor=white"/>
   <img src="https://img.shields.io/badge/-linux-3776AB?style=for-the-badge&logo=archlinux&logoColor=white"/>
   </div>
 </p>
